@@ -1,5 +1,7 @@
 # Expressive Loading Indicator
 
+> Archival notice: Refer to the implementation at [ksokolovskyi/material_loading_indicator](https://github.com/ksokolovskyi/material_loading_indicator).
+
 [![Pub](https://img.shields.io/pub/v/expressive_loading_indicator.svg)](https://pub.dartlang.org/packages/expressive_loading_indicator)
 
 Material 3 Expressive loading indicator ported to Flutter.
